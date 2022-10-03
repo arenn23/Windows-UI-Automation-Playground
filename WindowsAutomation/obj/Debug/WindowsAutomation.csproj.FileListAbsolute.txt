@@ -1,0 +1,8 @@
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\bin\Debug\WindowsAutomation.exe.config
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\bin\Debug\WindowsAutomation.exe
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\bin\Debug\WindowsAutomation.pdb
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\obj\Debug\WindowsAutomation.csproj.AssemblyReference.cache
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\obj\Debug\WindowsAutomation.csproj.SuggestedBindingRedirects.cache
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\obj\Debug\WindowsAutomation.csproj.CoreCompileInputs.cache
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\obj\Debug\WindowsAutomation.exe
+C:\Users\renne\Documents\Copia\.Net UI\WindowsAutomation\obj\Debug\WindowsAutomation.pdb
